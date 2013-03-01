@@ -34,5 +34,5 @@ will display the value 100.
 
 [1]: http://github.com/rfletcher/safari-json-formatter/downloads
 [2]: http://github.com/rfletcher/safari-json-formatter/commit/HEAD.json
-[i1]: https://github.com/bjhomer/safari-json-formatter/raw/master/images/before.png
-[i2]: https://github.com/bjhomer/safari-json-formatter/raw/master/images/after.png
+[i1]: etc/images/before.png
+[i2]: etc/images/after.png
